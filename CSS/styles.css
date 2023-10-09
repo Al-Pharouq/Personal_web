@@ -1,0 +1,119 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+.container1{
+    background-color: #DAFFFB;
+    height: 100%;
+}
+.container2{
+   
+}
+.bottom-container{
+    background-color:#66BFBF;
+    height: 30%;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+}
+.up-cloud{
+    position: relative;
+    left: 300px;
+    top: 50px;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 5.625rem;
+    margin: 0;
+    color: #66BFBF;
+    line-height: 1.5;
+}
+
+.mountain{
+    position: relative;
+    bottom: 58px;
+}
+h2{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{ 
+    font-family: 'Patrick Hand', cursive;
+    color: #11999e;
+}
+.profile{
+    position: relative;
+    top: 10px;
+    width: 50%;
+    margin: 100px auto;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.img1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.img2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+img3{
+    width: 25%;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 5%;
+}
+.par1{
+    margin: 0 90px 0 90px;
+}
+.footer-link{
+    color:#11999e;
+    line-height: 90px;
+    padding: 20px;
+}
+.last-p{
+    padding: 10px;
+}
+.BUTTON_CFD {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 10px;
+    background-color: #11999E;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 80px;
+
+ }
+ 
+ .BUTTON_CFD:hover {
+    background: #FFFFFF;
+    color: #000000;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
